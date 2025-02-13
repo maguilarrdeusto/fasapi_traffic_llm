@@ -7,3 +7,4 @@ pydantic-settings==2.7.1
 python-dotenv==1.0.1
 sqlalchemy==2.0.35
 uvicorn==0.34.0
+psycopg2-binary
